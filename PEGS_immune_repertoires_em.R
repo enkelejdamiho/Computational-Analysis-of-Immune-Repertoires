@@ -1,5 +1,5 @@
 ####################################################
-## 2018 PEGS
+## 2018 PEGS Boston
 ## Immune repertoires with R
 ## Enkelejda Miho
 ## ETH Zurich & FHNW Switzerland
