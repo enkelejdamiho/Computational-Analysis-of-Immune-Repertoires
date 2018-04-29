@@ -1,9 +1,10 @@
 ####################################################
-## 2017 PEGS
+## 2018 PEGS
 ## Immune repertoires with R
 ## Enkelejda Miho
-## ETH Zurich
+## ETH Zurich & FHNW Switzerland
 ## enkelejda.miho@ethz.ch
+## enkelejda.miho@fhnw.ch
 ####################################################
 
 ## This file walks you through an introduction in R.
