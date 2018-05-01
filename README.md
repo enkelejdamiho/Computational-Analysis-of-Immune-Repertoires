@@ -1,10 +1,7 @@
 # RStudio in Binder using a Dockerfile
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/binder-examples/dockerfile-rstudio/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/enkelejdamiho/Computational-Analysis-of-Immune-Repertoires/master)
 
-***NOTE**: RStudio/R support is now supported natively in Binder. See the
-[R example repository](https://github.com/binder-examples/r) for how to
-create an RStudio session using `runtime.txt`.*
 
 This is a proof-of-concept to deploy a Binder that exposes the
 RStudio UI instead of a Jupyter Notebook. It also installs

@@ -380,6 +380,8 @@ grid.draw(venn_r1_r2)
 
 ## ----visualization_phylogenies
 
+install.packages('ape')
+       
 library(ape)
 library(stringdist)
 
@@ -397,6 +399,10 @@ plot(cdr3_cluster, cex = 0.5)
 ### Immune repertoire analysis and visualization ###
 ####################################################
 
+## try http:// if https:// URLs are not supported
+source("https://bioconductor.org/biocLite.R")
+biocLite("Biostrings")
+       
 ## ----cdr3_length_distribution
 
 load("clon90")
